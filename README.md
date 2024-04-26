@@ -2,9 +2,9 @@
   <img src="LOGO.png">
 </div>
 
-## What is an PLAYA3ULL Community Proposal (PCP)?
+## What is a PLAYA3ULL Community Proposal (PCP)?
 
-An PLAYA3ULL Community Proposal is a concise document that introduces a change or best practice for adoption on the [PLAYA3ULL GAMES Ecosystem](https://playa3ull.games).
+A PLAYA3ULL Community Proposal is a concise document that introduces a change or best practice for adoption on the [PLAYA3ULL GAMES Ecosystem](https://playa3ull.games).
 PCPs should provide clear technical specifications of any proposals and a compelling rationale for their adoption.
 
 PCPs are an open framework for proposing improvements and gathering consensus around changes to the PLAYA3ULL GAMES Ecosystem.
@@ -41,7 +41,7 @@ PCP describes a change to the PCP process or suggests a new way for the PLAYA3UL
 </details>
 
 ## PCP Statuses
-There are four statuses of an PCP:
+There are four statuses of a PCP:
 
 ### `Proposed`
 PCP has been merged into the main branch of the PCP repository. It is actively being discussed by the PLAYA3ULL GAMES Community and may be modified based on feedback.
@@ -60,22 +60,22 @@ PCP has been abandoned by its author(s) because it is not supported by the PLAYA
 0. Think of a Novel Improvement to PLAYA3ULL GAMES
     <details>
       <summary>Details</summary>
-      The PCP process begins with a new idea for PLAYA3ULL GAMES. Each potential PCP must have an author(s): someone who writes the PCP using the style and format described below, shepherds the associated GitHub Discussion, and attempts to build consensus around the idea. Note that ideas and any resulting PCP is public. Authors should not post any ideas or anything in an PCP that the Author wants to keep confidential or to keep ownership rights in (such as intellectual property rights).
+      The PCP process begins with a new idea for PLAYA3ULL GAMES. Each potential PCP must have an author(s): someone who writes the PCP using the style and format described below, shepherds the associated GitHub Discussion, and attempts to build consensus around the idea. Note that ideas and any resulting PCP is public. Authors should not post any ideas or anything in a PCP that the Author wants to keep confidential or to keep ownership rights in (such as intellectual property rights).
     </details>
 1. Post Your Idea to [GitHub Discussions](https://github.com/playa3ull/playa3ull-community-proposals/discussions/categories/ideas)
     <details>
       <summary>Details</summary>
       The author(s) should first attempt to ascertain whether there is support for their idea by posting in the "Ideas" category of GitHub Discussions.
-      Vetting an idea publicly before going as far as writing an PCP is meant to save both the potential author(s) and the wider PLAYA3ULL GAMES Community time.
+      Vetting an idea publicly before going as far as writing a PCP is meant to save both the potential author(s) and the wider PLAYA3ULL GAMES Community time.
       Asking the PLAYA3ULL GAMES Community first if an idea is original helps prevent too much time being spent on something that is guaranteed to be rejected based on prior discussions (searching the Internet does not always do the trick).
       It also helps to make sure the idea is applicable to the entire community and not just the author(s).
       
-      Small enhancements or patches often don't need standardization between multiple projects; these don't need an PCP and should be injected into the relevant development workflow.
+      Small enhancements or patches often don't need standardization between multiple projects; these don't need a PCP and should be injected into the relevant development workflow.
     </details>
-2. Propose an PCP via [Pull Request](https://github.com/playa3ull/playa3ull-community-proposals/pulls)
+2. Propose a PCP via [Pull Request](https://github.com/playa3ull/playa3ull-community-proposals/pulls)
     <details>
       <summary>Details</summary>
-      Once the author(s) feels confident that an idea has a decent chance of acceptance, an PCP should be drafted and submitted as a pull request (PR).
+      Once the author(s) feels confident that an idea has a decent chance of acceptance, a PCP should be drafted and submitted as a pull request (PR).
       This draft must be written in PCP style as described below. It is highly recommended that a single PCP contain a single key proposal or new idea.
       The more focused the PCP, the more successful it tends to be. If in doubt, split your PCP into several well-focused ones.
       The PR number of the PCP will become its assigned number.
@@ -86,14 +86,14 @@ PCP has been abandoned by its author(s) because it is not supported by the PLAYA
       <summary>Details</summary>
       PCPs will be merged by PCP maintainers if the proposal is generally well-formatted and coherent.
       PCP editors will attempt to merge anything worthy of discussion, regardless of feasibility or complexity, that is not a duplicate or incomplete.
-      After an PCP is merged, an official GitHub Discussion will be opened for the PCP and linked to the proposal for community discussion.
+      After a PCP is merged, an official GitHub Discussion will be opened for the PCP and linked to the proposal for community discussion.
       It is recommended for author(s) or supportive PLAYA3ULL GAMES Community members to post an accompanying non-technical overview of their PCP for general consumption in this GitHub Discussion.
       The PCP should be reviewed and broadly supported before a reference implementation is started, again to avoid wasting the author(s) and the PLAYA3ULL GAMES Community's time, unless a reference implementation will aid people in studying the PCP.
     </details>
 4. Mark PCP as `Implementable` via [Pull Request](https://github.com/playa3ull/playa3ull-community-proposals/pulls)
     <details>
       <summary>Details</summary>
-      Once an PCP is considered complete by the author(s), it should be marked as `Implementable`.
+      Once a PCP is considered complete by the author(s), it should be marked as `Implementable`.
       At this point, all open questions should be addressed and an associated reference implementation should be provided (if applicable).
       As mentioned earlier, the PLAYA3ULL GAMES meets periodically to recommend the ratification of specific PCPs but it is ultimately up to members of the PLAYA3ULL GAMES/PLAYA3ULL GAMES Community to adopt PCPs.
     </details>
@@ -101,7 +101,7 @@ PCP has been abandoned by its author(s) because it is not supported by the PLAYA
 5. [Optional] Mark PCP as `Stale` via [Pull Request](https://github.com/playa3ull/playa3ull-community-proposals/pulls)
     <details>
       <summary>Details</summary>
-      An PCP can be superseded by a different PCP, rendering the original obsolete.
+      A PCP can be superseded by a different PCP, rendering the original obsolete.
       If this occurs, the original PCP will be marked as `Stale`. PCPs may also be marked as `Stale` if the author(s) abandon work on it for a prolonged period of time (12+ months).
       PCPs may be reopened and moved back to `Proposed` if the author(s) restart work.
     </details>
@@ -118,8 +118,8 @@ Auxiliary files must be named `PCP-XXXX-Y.ext`, where "XXXX" is the PCP number, 
 
 ### Waived Copyright
 
-PCP authors **must** waive any copyright claims before an PCP will be merged into the repository.
-This can be done by including the following text in an PCP:
+PCP authors **must** waive any copyright claims before a PCP will be merged into the repository.
+This can be done by including the following text in a PCP:
 
 ```text
 ## Copyright
